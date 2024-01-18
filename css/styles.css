@@ -13063,3 +13063,16 @@ body {
 .material-icons-outlined.md-48 {
   font-size: 48px;
 }
+
+.social-icon {
+  color: var(--bs-secondary);
+  text-decoration: none;
+  height: 35px;
+  width: 35px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.social-icon:hover {
+  color: var(--bs-info);
+}
